@@ -5,3 +5,5 @@ connect sensor -> arduino and arduino -> computer
 Color_detector folder has arduino code so that arduino can read RGB value from sensor and send data to serial port of computer
 
 run terminal.py to read data from serial port
+
+![](images/interface.png)
