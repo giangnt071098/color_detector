@@ -8,4 +8,4 @@ run terminal.py to read data from serial port
 
 ![](images/interface.png)
 
-Run plotgraph.py to see graph of RGB value real time
+Run plotgraph.py to see graph of RGB value in real time
